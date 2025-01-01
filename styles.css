@@ -52,3 +52,17 @@ footer {
     background-color: #2c3e50;
     color: #ecf0f1;
 }
+.certificate-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db; /* Blue background */
+    color: white; /* White text */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Text size */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.certificate-link:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+}
