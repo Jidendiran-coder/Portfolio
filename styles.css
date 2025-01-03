@@ -47,9 +47,13 @@ ul li {
     color: #3498db;
     text-decoration: none;
 }
-footer a {
+.footer-left {
+    display: flex;
     align-items: left;
-    padding-left: 0px;
+}
+.footer-right {
+    display: flex;
+    align-items: right;
 }
 footer {
     text-align: center;
