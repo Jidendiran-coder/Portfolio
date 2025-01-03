@@ -47,10 +47,10 @@ ul li {
     color: #3498db;
     text-decoration: none;
 }
-.footer-left {
-    display: flex;
-    justify-content: space-evenly;
+.footer-left img {
+    justify-content: space-between;
     align-items: left;
+    margin-right: 10px;
 }
 .footer-right {
     display: flex;
